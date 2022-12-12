@@ -1,0 +1,17 @@
+[
+    {
+        "StockName": "Wipro",
+        "NumOfShares": "100",
+        "SharePrice": "100090"
+    },
+    {
+        "StockName": "Infosys",
+        "NumOfShares": "2000",
+        "SharePrice": "10000"
+    },
+    {
+        "StockName": "Cognizant",
+        "NumOfShares": "309",
+        "SharePrice": "1000909"
+    }
+]
